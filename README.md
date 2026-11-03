@@ -17,7 +17,12 @@ Este proyecto implementa un grafo no dirigido utilizando el lenguaje de programa
 - Maven.
 
 ## Ejecución
-Abrir el proyecto en NetBeans y ejecutar la clase `GrafoBasico`.
+
+El proyecto fue desarrollado en Apache NetBeans utilizando Java 17. Para ejecutarlo, se abre el proyecto GrafoBasico en NetBeans y se ejecuta la clase principal GrafoBasico.java.
+
+El programa muestra un menú interactivo en consola que permite realizar las operaciones básicas de un grafo.
 
 ## Autoría
-Proyecto académico desarrollado para practicar estructuras de datos y operaciones básicas de grafos.
+Desarrollado por: Emilhit Vanessa Chilma
+
+Proyecto académico de estructuras de datos.
